@@ -1,0 +1,118 @@
+.container {
+    max-width: 450px;
+    text-align: center;
+}
+
+img {
+    align-content: center
+}
+
+/* TitlingGothicFB Normal Thin */
+.nt {
+font-family: titling-gothic-fb, sans-serif;
+font-weight: 100;
+font-style: normal;
+}
+
+
+/* TitlingGothicFB Normal Light */
+.nl {
+font-family: titling-gothic-fb, sans-serif;
+font-weight: 200;
+font-style: normal;
+}
+
+/* TitlingGothicFB Normal Regular */
+.nr {
+font-family: titling-gothic-fb, sans-serif;
+font-weight: 300;
+font-style: normal;
+}
+
+/* TitlingGothicFB Normal Medium */
+.nm {
+font-family: titling-gothic-fb, sans-serif;
+font-weight: 500;
+font-style: normal;
+}
+
+/* TitlingGothicFB Normal Bold */
+.nb {
+font-family: titling-gothic-fb, sans-serif;
+font-weight: 700;
+font-style: normal;
+}
+
+/* TitlingGothicFB Comp Standard */
+.cs {
+font-family: titling-gothic-fb-compressed, sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+
+/* TitlingGothicFB Wide Standard */
+.ws {
+font-family: titling-gothic-fb-wide, sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+p {
+text-align: left;
+margin-bottom: 2px;
+line-height: 1.3em
+}
+
+span {
+color:red
+}
+
+h1 {
+line-height: 1.0em;
+}
+
+.hed {
+margin-bottom: 15px;
+border-bottom: 2px solid darkgrey;
+padding-bottom: 15px
+}
+
+h5 {
+margin-top: 10px
+}
+
+.fhed {
+margin-top: 20px;
+border-top: 2px solid darkgrey;
+padding-top: 20px
+}
+
+.btn {
+    border-radius: 0;
+    background-color: red
+}
+
+.red {
+    color:red
+}
+
+.hed6 {
+    margin-bottom: 0px
+}
+
+.details {
+    margin-bottom: 10px
+}
+
+footer {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-align: center;
+    size: 0.7em;
+    letter-spacing: 0.5em
+    
+}
+
+
+ 
